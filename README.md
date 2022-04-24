@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Dharme</h1>
+
 <h3 align="center">A passionate developer from India</h3>
+
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omdharme&label=Profile%20views&color=0e75b6&style=flat" alt="omdharme" /> </p>
 
